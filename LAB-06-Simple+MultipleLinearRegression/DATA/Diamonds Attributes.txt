@@ -1,0 +1,21 @@
+Carat	Weight of your best friend in carats
+Cut	Describes the cut quality of the diamond
+	Cut qualities, from worst to best: Fair, Good, Very Good, Premium, Ideal
+Color	Colour of the diamond
+	A is the best and Z is the worst
+Clarity	Diamond clarity refers to the absence/presense of imperfections
+	From best to worst: FL, IF, VVS1, VVS2, VS1, VS2, SI1, SI2, I1, I2, I3
+	FL (flawless), IF (internally flawless), VVS1 (very very slightly included), VVS2,
+	VS1 (very slightly included), VS2, SI1 (slightly included), SI2, I1 (included), I2, I3
+	P.S. High street retailers in the UK mostly sell I3 clarity
+Depth	The height of a diamond, measured from the culet to the table, divided by its average girdle diameter
+Table	The width of the diamond's table expressed as a percentage of its average diameter
+	A diamond's table is the facet which can be seen when the stone is viewed face up 
+	It is the largest facet on a diamond and plays a vital role in its brilliance and light performance
+Price	How many bucks you will say goodbye to
+X	Length of the diamond in mm
+Y	Width of the diamond in mm
+Z	Height of the diamond in mm
+
+Qualitative (categorical) attributes : Cut, Colour, Clarity
+Quantitative (numeric)    attributes : Carat, Depth, Table, Price, X, Y, Z
